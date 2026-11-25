@@ -46,3 +46,9 @@ h1{font:400 40px/48px 'Roboto Condensed',Arial,sans-serif;margin-bottom:8px}.int
 .reputation-menu-item.is-current{background:#eff2f5}.reputation-menu-support{min-height:48px;padding:12px;flex:none;margin-top:auto;cursor:default}
 .reputation-sidebar img{display:block;flex:none}body:not(.guest-profile-page)>main{margin-left:48px;margin-right:auto;max-width:1600px;width:calc(100% - 48px)}
 .guest-profile-page>.reputation-sidebar{display:none}
+
+/* AI topics belong to the review, before guest details. */
+.review-analysis{display:flex;flex-direction:column;gap:16px;padding-bottom:16px}.review-analysis .review-text{margin:0}.review-analysis>.btn{align-self:flex-start}.review-analysis .topic-list:empty{display:none}
+.review-analysis .topic{--topic-color:#f44336;background:#fff;color:var(--topic-color);border:1px solid var(--topic-color);padding:3px 4px;border-radius:12px;font:400 10px/12px 'Open Sans',Arial,sans-serif;letter-spacing:.5px;text-transform:uppercase;cursor:pointer;max-width:100%}
+.review-analysis .topic.positive{--topic-color:#4caf50}.review-analysis .topic.warning{--topic-color:#ffa000}.review-analysis .topic.is-active{background:var(--topic-color);color:#fff}.review-analysis .topic:focus-visible{outline:2px solid #03a9f4;outline-offset:3px}
+.topic-highlight{color:inherit;background:rgba(244,67,54,.2);padding:0}.topic-highlight.positive{background:rgba(76,175,80,.2)}.topic-highlight.warning{background:rgba(255,160,0,.2)}
