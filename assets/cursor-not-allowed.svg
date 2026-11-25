@@ -1,0 +1,24 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="28.9936" height="32.2807" viewBox="0 0 28.9936 32.2807" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Cursor / Not Allowed">
+<g id="Oval 3" filter="url(#filter0_d_0_9)">
+<use xlink:href="#stroke0_0_9" fill="black"/>
+<mask id="stroke1_0_9" maskUnits="userSpaceOnUse" x="2.4072" y="1.73775" width="24" height="27" fill="black">
+<rect fill="white" x="2.4072" y="1.73775" width="24" height="27"/>
+<use xlink:href="#stroke0_0_9"/>
+</mask>
+<path d="M14.5861 8.36261L4.4072 3.73775L6.81468 14.6558L9.75643 10.3435L14.5861 8.36261V8.36261ZM20.4702 24.1714C19.4893 24.8699 18.2895 25.2807 16.9936 25.2807C13.6799 25.2807 10.9936 22.5944 10.9936 19.2807C10.9936 17.9848 11.4044 16.785 12.1029 15.8041L20.4702 24.1714V24.1714ZM21.8844 22.7572C22.5828 21.7764 22.9936 20.5765 22.9936 19.2807C22.9936 15.967 20.3073 13.2807 16.9936 13.2807C15.6978 13.2807 14.4979 13.6915 13.5171 14.3899L21.8844 22.7572V22.7572ZM16.9936 27.2807C21.4119 27.2807 24.9936 23.6989 24.9936 19.2807C24.9936 14.8624 21.4119 11.2807 16.9936 11.2807C12.5754 11.2807 8.99363 14.8624 8.99363 19.2807C8.99363 23.6989 12.5754 27.2807 16.9936 27.2807V27.2807Z" stroke-width="2" stroke="white" mask="url(#stroke1_0_9)"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_9" x="0" y="-1.19209e-07" width="28.9936" height="32.2807" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="1.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_9"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_9" result="shape"/>
+</filter>
+<path id="stroke0_0_9" d="M14.5861 8.36261L4.4072 3.73775L6.81468 14.6558L9.75643 10.3435L14.5861 8.36261V8.36261ZM20.4702 24.1714C19.4893 24.8699 18.2895 25.2807 16.9936 25.2807C13.6799 25.2807 10.9936 22.5944 10.9936 19.2807C10.9936 17.9848 11.4044 16.785 12.1029 15.8041L20.4702 24.1714V24.1714ZM21.8844 22.7572C22.5828 21.7764 22.9936 20.5765 22.9936 19.2807C22.9936 15.967 20.3073 13.2807 16.9936 13.2807C15.6978 13.2807 14.4979 13.6915 13.5171 14.3899L21.8844 22.7572V22.7572ZM16.9936 27.2807C21.4119 27.2807 24.9936 23.6989 24.9936 19.2807C24.9936 14.8624 21.4119 11.2807 16.9936 11.2807C12.5754 11.2807 8.99363 14.8624 8.99363 19.2807C8.99363 23.6989 12.5754 27.2807 16.9936 27.2807V27.2807Z" fill-rule="evenodd" clip-rule="evenodd"/>
+</defs>
+</svg>
